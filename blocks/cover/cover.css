@@ -1,0 +1,10 @@
+@import url("./cover__container/cover__container.css");
+@import url("./cover__overlay/cover__overlay.css");
+@import url("./cover__subtitle/cover__subtitle.css");
+@import url("./cover__title/cover__title.css");
+
+.cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

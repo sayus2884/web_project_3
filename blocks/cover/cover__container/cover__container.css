@@ -1,0 +1,11 @@
+.cover__container {
+  min-width: 1184px;
+  height: 740px;
+  background-image: url("../../../images/background.png");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  position: relative;
+}

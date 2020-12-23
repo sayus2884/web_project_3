@@ -1,0 +1,5 @@
+.places__description {
+  grid-area: places__description;
+  font-size: 18px;
+  line-height: 163%;
+}
