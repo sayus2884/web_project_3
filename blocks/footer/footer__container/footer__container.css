@@ -1,5 +1,5 @@
 .footer__container {
-  min-width: 1184px;
+  max-width: 1184px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;

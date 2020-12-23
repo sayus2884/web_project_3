@@ -10,7 +10,7 @@
 @import url("./header__title/header__title.css");
 
 .header {
-  margin: 32px 148px 0;
+  margin: 32px 0;
   display: flex;
   flex-direction: column;
   justify-content: center;

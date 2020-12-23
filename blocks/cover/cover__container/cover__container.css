@@ -1,5 +1,5 @@
 .cover__container {
-  min-width: 1184px;
+  max-width: 1184px;
   height: 740px;
   background-image: url("../../../images/background.png");
   display: flex;
