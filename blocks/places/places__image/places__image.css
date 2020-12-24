@@ -20,5 +20,6 @@
   .places__image {
     max-width: 320px;
     max-height: 320px;
+    padding-bottom: 32px;
   }
 }

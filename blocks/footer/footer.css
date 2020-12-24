@@ -1,6 +1,7 @@
 @import url("./footer__author/footer__author.css");
 @import url("./footer__container/footer__container.css");
 @import url("./footer__link/footer__link.css");
+@import url("./footer__link-container/footer__link-container.css");
 @import url("./footer__links/footer__links.css");
 @import url("./footer__menu/footer__menu.css");
 
@@ -8,4 +9,11 @@
   display: flex;
   justify-content: center;
   padding: 92px 0 24px;
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding: 64px 16px 24px;
+    display: block;
+  }
 }

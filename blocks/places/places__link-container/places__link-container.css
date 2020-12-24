@@ -4,3 +4,9 @@
   justify-content: flex-end;
   grid-area: places__link-container;
 }
+
+@media screen and (max-width: 320px) {
+  .places__link-container {
+    display: none;
+  }
+}

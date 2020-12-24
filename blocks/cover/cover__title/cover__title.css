@@ -7,3 +7,11 @@
   position: relative;
   z-index: 100;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    font-size: 2rem;
+    line-height: 35px;
+    margin: 0 0 16px;
+  }
+}
