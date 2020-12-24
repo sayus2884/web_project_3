@@ -15,6 +15,13 @@
   position: relative;
 }
 
+@media screen and (max-width: 768px) {
+  .cover__container {
+    max-width: 768px;
+    height: 480px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__container {
     max-width: 320px;

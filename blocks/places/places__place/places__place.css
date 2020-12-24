@@ -16,7 +16,8 @@
 
 @media screen and (max-width: 1024px) {
   .places__place {
-    grid-gap: 32px 48px;
+    grid-gap: 28px 48px;
+    margin-bottom: 72px;
   }
 }
 

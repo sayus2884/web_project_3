@@ -1,5 +1,9 @@
 .footer__link-container {
-  
+  margin-right: 18px;
+}
+
+.footer__link-container:last-child {
+  margin: 0;
 }
 
 .footer__link-container:last-child {

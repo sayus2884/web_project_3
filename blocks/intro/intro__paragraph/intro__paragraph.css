@@ -4,4 +4,13 @@
   font-size: 1rem;
   line-height: 163%;
   margin: 0 0 33px;
+  font-weight: normal;
+}
+
+
+@media screen and (max-width: 768px) {
+  .intro__paragraph {
+    max-width: 720px;
+    width: 100%;
+  }
 }

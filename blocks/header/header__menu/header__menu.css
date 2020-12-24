@@ -5,6 +5,12 @@
   margin-bottom: 58px;
 }
 
+@media screen and (max-width: 768px) {
+  .header__menu {
+    margin: 0 24px 50px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .header__menu {
     margin-bottom: 50px;

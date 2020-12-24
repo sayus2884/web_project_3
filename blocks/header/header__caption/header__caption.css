@@ -6,3 +6,15 @@
   align-self: start;
   letter-spacing: .15em;
 }
+
+@media screen and (max-width: 768px) {
+  .header__caption {
+    margin: 8px 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__caption {
+    margin: 8px 16px 0;
+  }
+}
