@@ -4,12 +4,19 @@
   height: 615px;
   background-image: url("../../../images/kalegin-michail-179870-unsplash.jpg");
   background-size: cover;
-  
+
 }
 
 @media screen and (max-width: 320px) {
   .header__image {
     max-width: 320px;
-    height: 200px;
+    max-height: 200px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px){
+  .header__image {
+    max-width: 768px;
+    max-height: 480px;
   }
 }

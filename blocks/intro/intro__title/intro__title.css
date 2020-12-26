@@ -7,17 +7,17 @@
   margin: 0 0 42px;
 }
 
-@media screen and (max-width: 768px) {
-  .intro__title {
-    max-width: 720px;
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .intro__title {
     font-size: 2rem;
     line-height: 35px;
     margin-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__title {
+    max-width: 720px;
+    width: 100%;
   }
 }
