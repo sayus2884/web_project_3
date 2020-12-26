@@ -14,10 +14,12 @@
   margin: 0
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 320px) {
   .places__place {
-    grid-gap: 28px 48px;
-    margin-bottom: 72px;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 0;
+    margin-bottom: 49px;
   }
 }
 
@@ -27,11 +29,9 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1024px) {
   .places__place {
-    display: flex;
-    flex-direction: column;
-    grid-gap: 0;
-    margin-bottom: 49px;
+    grid-gap: 28px 48px;
+    margin-bottom: 72px;
   }
 }

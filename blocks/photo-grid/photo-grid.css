@@ -7,14 +7,15 @@
   justify-content: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .photo-grid {
-    padding-top: 88px;
+    display: block;
+    padding-top: 64px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .photo-grid {
-    padding-top: 64px;
+    padding-top: 88px;
   }
 }

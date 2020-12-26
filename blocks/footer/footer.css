@@ -6,8 +6,6 @@
 @import url("./footer__menu/footer__menu.css");
 
 .footer {
-  display: flex;
-  justify-content: center;
   padding: 92px 48px 24px;
 }
 
