@@ -10,5 +10,6 @@
   .header__title {
     font-size: 40px;
     line-height: 44px;
+    margin: 0 16px 16px;
   }
 }
