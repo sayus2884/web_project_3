@@ -11,7 +11,7 @@
 @import url("./header__title/header__title.css");
 
 .header {
-  margin: 32px 0 0;
+  margin: 34px 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;

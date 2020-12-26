@@ -8,7 +8,7 @@
 .footer {
   display: flex;
   justify-content: center;
-  padding: 92px 0 24px;
+  padding: 92px 48px 24px;
 }
 
 @media screen and (max-width: 768px) {
