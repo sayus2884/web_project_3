@@ -5,15 +5,15 @@
   flex-direction: column;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 767px) {
+  .header__container {
+    margin: 0 16px;
+  }
+} */
+
+/* @media screen and (max-width: 1024px) {
   .header__container {
     max-width: 928px;
     margin: 0 48px;
   }
-}
-
-@media screen and (max-width: 320px) {
-  .header__container {
-    max-width: 320px;
-  }
-}
+} */
