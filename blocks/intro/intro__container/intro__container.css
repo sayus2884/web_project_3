@@ -14,28 +14,8 @@
   }
 }
 
-/* @media screen and (max-width: 320px) {
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
   .intro__container {
-    max-width: 288px;
-    margin: 0 16px;
+    margin: 0 48px;
   }
 }
-
-@media screen and (min-width: 768px) {
-  .intro__container {
-    max-width: 720px;
-    margin: 0 24px;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .intro__container {
-    min-width: 928px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .intro__container {
-    min-width: 984px;
-  }
-} */
