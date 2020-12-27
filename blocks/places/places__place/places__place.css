@@ -14,16 +14,15 @@
   margin: 0
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .places__place {
-    display: flex;
-    flex-direction: column;
+    display: block;
     grid-gap: 0;
     margin-bottom: 49px;
   }
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .places__place {
     grid-gap: 32px 48px;
   }
@@ -34,4 +33,4 @@
     grid-gap: 28px 48px;
     margin-bottom: 72px;
   }
-}
+} */
