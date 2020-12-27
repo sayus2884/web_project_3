@@ -17,21 +17,11 @@
   }
 }
 
-/* @media screen and (max-width: 768px) and (min-width: 321px){
+@media screen and (min-width: 768px) and (max-width: 1024px){
   .photo-grid__gallery {
-    max-width: 928px;
     grid-template-columns: repeat(2 , 1fr);
     grid-template-rows: repeat(6, 1fr);
     grid-gap: 16px;
+    margin: 0 24px;
   }
 }
-
-@media screen and (max-width: 1024px) and (min-width: 769px){
-  .photo-grid__gallery {
-    max-width: 928px;
-    margin: 0 48px;
-    grid-template-columns: repeat(3 , 1fr);
-    grid-template-rows: repeat(4, 1fr);
-    grid-gap: 14px;
-  }
-} */

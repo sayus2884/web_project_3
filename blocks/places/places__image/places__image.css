@@ -8,11 +8,16 @@
     padding-bottom: 32px;
   }
 }
-/*
-@media screen and (max-width: 1024px) {
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
   .places__image {
     max-width: 440px;
     max-height: 440px;
+  }
+}
+/*
+@media screen and (max-width: 1024px) {
+  .places__image {
   }
 }
 
