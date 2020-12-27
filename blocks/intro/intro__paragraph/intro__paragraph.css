@@ -14,3 +14,9 @@
     width: 100%;
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .intro__paragraph {
+    max-width: 100%;
+  }
+}
