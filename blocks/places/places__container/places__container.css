@@ -16,15 +16,9 @@
   }
 }
 
-/* @media screen and (max-width: 767px) {
+@media screen and (min-width: 1280px){
   .places__container {
-    max-width: calc(100% - 24px);
-    margin: 0 24px;
+    margin: 0 148px;
+    width: calc(100% - 296px);
   }
-} */
-
-/* @media screen and (max-width: 1024px) {
-  .places__container {
-    max-width: 928px;
-  }
-} */
+}

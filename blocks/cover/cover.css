@@ -5,3 +5,9 @@
 
 .cover {
 }
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    margin: 0 148px;
+  }
+}

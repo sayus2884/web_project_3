@@ -15,15 +15,11 @@
     max-height: 440px;
   }
 }
-/*
-@media screen and (max-width: 1024px) {
+
+@media screen and (max-width: 1080px){
   .places__image {
+    min-width: 460px;
+    width: 100%;
+    min-height: 460px;
   }
 }
-
-@media screen and (max-width: 768px) {
-  .places__image {
-    max-width: 340px;
-    max-height: 340px;
-  }
-} */
