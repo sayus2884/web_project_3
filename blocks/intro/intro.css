@@ -1,9 +1,9 @@
-@import url("./intro__container/intro__container.css");
-@import url("./intro__list/intro__list.css");
-@import url("./intro__list-item/intro__list-item.css");
-@import url("./intro__paragraph/intro__paragraph.css");
-@import url("./intro__subtitle/intro__subtitle.css");
-@import url("./intro__title/intro__title.css");
+@import url("./__container/intro__container.css");
+@import url("./__list/intro__list.css");
+@import url("./__list-item/intro__list-item.css");
+@import url("./__paragraph/intro__paragraph.css");
+@import url("./__subtitle/intro__subtitle.css");
+@import url("./__title/intro__title.css");
 
 .intro {
   padding-top: 92px;

@@ -1,5 +1,5 @@
-@import url("./photo-grid__gallery/photo-grid__gallery.css");
-@import url("./photo-grid__image/photo-grid__image.css");
+@import url("./__gallery/photo-grid__gallery.css");
+@import url("./__image/photo-grid__image.css");
 
 .photo-grid {
   padding-top: 92px;
