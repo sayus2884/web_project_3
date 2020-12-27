@@ -1,7 +1,7 @@
 .header__subtitle {
   color: white;
   max-width: 620px;
-  margin: 0 0 64px;
+  margin: 0 0 56px;
   font-size: 30px;
   line-height: 36px;
   font-weight: normal;
@@ -12,5 +12,11 @@
     font-size: 1rem;
     line-height: 20px;
     margin: 0 16px 40px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header__subtitle {
+    margin-bottom: 64px;
   }
 }

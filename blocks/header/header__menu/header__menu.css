@@ -11,6 +11,12 @@
   }
 }
 
+@media screen and (min-width: 768px) {
+  .header__menu {
+    margin: 0 24px 50px;
+  }
+}
+
 @media screen and (min-width: 1280px) {
   .header__menu {
     margin-bottom: 58px;
