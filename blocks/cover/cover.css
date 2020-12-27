@@ -4,7 +4,4 @@
 @import url("./cover__title/cover__title.css");
 
 .cover {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }

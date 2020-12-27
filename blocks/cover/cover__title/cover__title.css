@@ -8,17 +8,17 @@
   z-index: 100;
 }
 
-@media screen and (max-width: 768px) {
-  .cover__title {
-    font-size: 4.5rem;
-    line-height: 76px;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__title {
     font-size: 2rem;
     line-height: 35px;
     margin: 0 0 16px;
   }
 }
+/*
+@media screen and (max-width: 768px) {
+  .cover__title {
+    font-size: 4.5rem;
+    line-height: 76px;
+  }
+} */
