@@ -6,9 +6,9 @@
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/places/places.css");
 
-div, section, h1, h2, h3, p, ul, li, img, a {
+/* div, section, h1, h2, h3, p, ul, li, img, a {
   border: 1px solid red;
-}
+} */
 
 .page {
   background-color: #2A2C2F;
