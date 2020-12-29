@@ -5,6 +5,7 @@
   grid-template-columns: repeat(4 , 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 16px;
+  margin: 0 148px;
 }
 
 @media screen and (max-width: 767px) {
@@ -31,15 +32,6 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
     grid-gap: 14px;
-    margin: 0 48px;
-  }
-}
-
-@media screen and (min-width: 1280px){
-  .photo-grid__gallery {
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-gap: 16px;
     margin: 0 48px;
   }
 }
