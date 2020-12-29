@@ -1,6 +1,7 @@
 .lead__title {
   color: white;
   font-size: 6rem;
+  font-weight: 900;
   line-height: 100px;
   max-width: 720px;
   margin: 0 0 32px;
