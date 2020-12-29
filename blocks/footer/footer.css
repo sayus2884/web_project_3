@@ -6,23 +6,6 @@
 @import url("./__menu/footer__menu.css");
 
 .footer {
-  padding: 92px 48px 24px;
-}
-
-@media screen and (max-width: 767px) {
-  .footer {
-    padding: 64px 16px 24px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1024px){
-  .footer {
-    padding: 88px 24px 24px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .footer {
-    padding: 88px 48px 24px;
-  }
+  width: 100%;
+  max-width: 1280px;
 }
