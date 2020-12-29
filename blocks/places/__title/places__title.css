@@ -7,18 +7,26 @@
   color: white;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
+  .places__title {
+    font-size: 4.5rem;
+    line-height: 76px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__title {
+    font-size: 42px;
+    line-height: 46px;
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .places__title {
     font-size: 2rem;
     line-height: 35px;
     margin-bottom: 32px;
     padding: 0 16px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1024px){
-  .places__title {
-    font-size: 42px;
-    line-height: 46px;
   }
 }

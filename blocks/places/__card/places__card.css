@@ -2,8 +2,6 @@
   margin-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(auto-fit, 1fr);
-  width: 100%;
   grid-gap: 40px 48px;
   grid-template-areas:
   "places__title places__link-container"
@@ -14,17 +12,24 @@
   margin: 0;
 }
 
+@media screen and (max-width: 1279px) {
+  .places__card {
+    grid-gap: 32px 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places__card {
+    margin-bottom: 73px;
+    grid-gap: 28px 48px;
+  }
+}
+
+
 @media screen and (max-width: 767px) {
   .places__card {
     display: block;
     grid-gap: 0;
     margin-bottom: 49px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1024px){
-  .places__card {
-    margin-bottom: 72px;
-    grid-gap: 28px 48px;
   }
 }
