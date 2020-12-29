@@ -2,4 +2,9 @@
   background-color: #2A2C2F;
   text-rendering: optimizeLegibility;
   font-family: "Inter", Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

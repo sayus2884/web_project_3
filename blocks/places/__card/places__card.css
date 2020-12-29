@@ -1,4 +1,4 @@
-.places__place {
+.places__card {
   margin-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -10,12 +10,12 @@
   "places__image places__description";
 }
 
-.places__place:last-child {
+.places__card:last-child {
   margin: 0;
 }
 
 @media screen and (max-width: 767px) {
-  .places__place {
+  .places__card {
     display: block;
     grid-gap: 0;
     margin-bottom: 49px;
@@ -23,7 +23,7 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px){
-  .places__place {
+  .places__card {
     margin-bottom: 72px;
     grid-gap: 28px 48px;
   }
