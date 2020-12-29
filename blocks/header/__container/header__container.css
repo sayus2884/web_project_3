@@ -1,15 +1,29 @@
 .header__container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
 
+@media screen and (max-width: 767px) {
+  .header__container {
+    margin: 0 16px 50px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header__container {
+    margin: 0 24px 50px;
+  }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
   .header__container {
-    margin: 0 48px;
+    margin: 0 48px 50px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .header__container {
-    margin: 0 148px;
+    margin: 0 148px 50px;
   }
 }
