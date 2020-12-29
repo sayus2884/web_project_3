@@ -2,6 +2,7 @@
   margin-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(auto-fit, 1fr);
   grid-gap: 40px 48px;
   grid-template-areas:
   "places__title places__link-container"
