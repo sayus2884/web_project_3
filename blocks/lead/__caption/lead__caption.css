@@ -5,6 +5,8 @@
   color: white;
   align-self: start;
   letter-spacing: .15em;
+  text-transform: uppercase;
+  text-align: left;
 }
 
 @media screen and (max-width: 767px) {
