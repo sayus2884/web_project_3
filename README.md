@@ -8,7 +8,7 @@
 
 **Intro**
 
-This is a website about traveling across the US using HTML5 & CSS code where sections readjusts based on screen width size. Width sizes include 320px, 768px, 1024px, and 1280px. The design specifications are found in Figma. 
+This is a website about traveling across the US using HTML5 & CSS code where sections readjusts based on screen width size. Width sizes include 320px, 768px, 1024px, and 1280px. The design specifications are found in Figma.
 
 **Figma**
 
@@ -21,4 +21,4 @@ The markup language to create the structure of a website and a styling mechanism
 
 **Github**
 
-A repository that contains the code for the project, the github link can be found [here](https://sayus2884.github.io/web_project_3/).
+A repository that contains the code for the project, the published project can be found [here](https://sayus2884.github.io/web_project_3/).
