@@ -4,6 +4,7 @@
 * Intro
 * Figma
 * HTML & CSS
+* Github
 
 **Intro**
 
@@ -17,3 +18,7 @@ A designing tool used to create mock-up web designs which can later be used as t
 **HTML & CSS**
 
 The markup language to create the structure of a website and a styling mechanism to make the website colorful. The project is written using the BEM (Block, Element, Modifier) methodology for better maintainance.
+
+**Github**
+
+A repository that contains the code for the project, the github link can be found [here](https://sayus2884.github.io/web_project_3/).
