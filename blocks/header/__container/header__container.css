@@ -5,25 +5,19 @@
   padding: 0 148px 50px;
 }
 
-@media screen and (min-width: 1280px) {
-  .header__container {
-    padding: 0 148px 50px;
-  }
-}
-
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1024px) {
   .header__container {
     padding: 0 48px 50px;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 768px) {
   .header__container {
     padding: 0 24px 50px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
   .header__container {
     padding: 0 16px 50px;
   }
