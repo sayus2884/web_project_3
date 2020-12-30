@@ -7,12 +7,6 @@
   margin: 0 0 42px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-  .intro__title {
-    max-width: 690px;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .intro__title {
     font-size: 2rem;
